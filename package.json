@@ -2,7 +2,7 @@
 	"name": "gen-multi-types-images",
 	"displayName": "Gen Multi Types Images",
 	"description": "Generate images of multiple types including jpeg, webp, avif.",
-	"version": "0.0.2",
+	"version": "0.0.4",
 	"publisher": "aimergenge",
 	"repository": {
 		"url": "https://github.com/aimergenge/gen-multi-types-images"
@@ -10,6 +10,14 @@
 	"engines": {
 		"vscode": "^1.64.0"
 	},
+	"keywords": [
+		"webp",
+		"avif",
+		"generate",
+		"images",
+		"multiple",
+		"types"
+	],
 	"categories": [
 		"Other"
 	],
